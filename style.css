@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    background-image: url(./Couldn\'t\ find\ a\ decent\ Red\ Camouflage\ wallpaper\ so\ i\ made\ one\ instead\ [1920x1080].jpg);
+    background-size: contain;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+#convert {
+    background-color: black;
+    color: red;
+    font-size: large;
+    margin-top: 10px;
+}
+
+#clear {
+    background-color: red;
+    font-size: large;
+    margin-top: 10px;
+}
